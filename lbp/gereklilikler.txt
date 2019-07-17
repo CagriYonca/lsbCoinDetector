@@ -1,0 +1,6 @@
+OpenCV 3.4
+Numpy
+Python 3.7
+Scikit-learn
+Scikit-image
+Imutils
